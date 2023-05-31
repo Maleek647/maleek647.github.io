@@ -1,1 +1,17 @@
+BODY{BACKGROUND:#ffcccb ;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+;
+}
+p{ 
+font-size: 0.7em;}
+
+.About-Us {
+    font-size: 0.5em;}
+.about-school {font-size: 15px;}
+.School-information { font-size: 15px;}
 
