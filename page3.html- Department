@@ -1,1 +1,70 @@
+<!DOCTYPE html>
+<html>
+<title>Online HTML Editor</title>
+<head>
+<style>
+body {background:Red;]
+  h1{color:blue;]
+ h2{color:Blue;}
+    
+    
+    
+    
+    
+    
+    
+    
+</style>    
+    
+    
+    
+    
+    
+    
+    
+</head>
+<body>
+<h1><center>Science Department</center></h1>
+<div></div>
+<img src ="https://cdn.wallpapersafari.com/18/68/7EJBtn.png" width="400" class ="center"><br>
+<div class ="About The Science Department"> <h1><u>About The Science Department</u></h1>
+<p class="About The Science Department"></p>
+Eastside Academy has an amazing Science Department with a tean of dedicaed and knowledgeable teachers, the department strives to provide students with a well-rounded education in various scientiffic disciplines. Our Science department teaches the main science units that are  Chemistry, Biology, and Physics. Our department ensures hand on snd experimental learming opportunities for students, encouraging them to explore and conduct scientific experiments. Eastside Academy science department always tells students to use there critical thinking,and problem-solving skills. Our Department make sure our students go on 2 trips during the semester to keep our students interacted with the Science world.We enage our students to enage in discussions in class and experiments.
+<br>
+<div1 class ="Biology"> <h2><U>Biology</U></h2></div1>
+<p2 class ="Biology"></p2>
+In this subejct, Biology we study life and living organisms, including their structure, function, growth, orgin, evolution, distribution, and taxonmy. By studying biology there are a lot career options you could choose if yoyu studied Biology in school. Some jobs you can get are Reasearch scientist, Pharmacologist, Biologist, Ecologist, Nature conservation officer, Biotechnologist, forensic scientist, and Government agency roles. Students learn about various life processes and how various species deal with emvironmental obstacles.Here at Eastside academy when we are in our Biology unit at the end of it we dissect a frog which is very cool because we could see the frogs body parts and other body parts that we learned in class. Biology is important thing to learn because it helps us comprehend the funcctioning evolution and interactions of the living world's diverse species, including humans. Out of all the three sciences we teach here at Eastside academy students say that Biology is their favorite one to learn about.
+<br></br>
+
+<img src="https://www.ip-paris.fr/sites/default/files/styles/actualite_full/public/visual-editor/M1%20Bio.jpg?itok=Q04991Xz"width ="400" class ="left"
+ <br></br>
+ 
+ <div2 class ="Chemistry"> <h3><u>Chemistry</u></h3></div2>
+ <p3 class ="Chemistry"></p3>
+ Chemistry is the study of matter's characteristics, behaviour, and structure. In all instruction in chemistry classes, our students gain a foundational understanding of chemistry, including chemical bonding, raidoactivity, and the characteristics of solids, liquids, and gases. We also learn all about atoms, ions, and molecules, which make up elements and compounds. Here at Eastside Academy, our students find that chemistry is the hardest science course to take in high school, but we try to make it easier every day for them and always encourage them to do their homework. Along with stoichiometry and reaction rates, the study of chemical reactions is covered in the chemistry unit. During this unit, our students also learn about the periodic table. Our cool school experiments enable students to apply theoretical concepts and develop essential skills in observation, measurement, and data analysis. Also, for our experiments, we carefully measure and mix quantities of solutions, observing the colour changes and recording our observations as the two substances we mix together react and neutralise each other.
+ Overall our chemistry course gives students a solid foudation.
+ <br></br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Water-elpot-transparent-3D-balls.png" width = "400" class="Right">
+<br></br>
+<div3 class ="Physiscs"> <h4><u>Physiscs</u></h4></div3>
+<p4 class ="Physiscs"></p4>
+As an introduction for our physicists, we first start talking about mechanics. At Eastside Academy, the physics course is a fascinating and crucial part of the science curriculum.
+Students examine subjects like motion, forces, energy, and electricity through this unit. Everything in physical existence, from the smallest subatomic particles to the entire universe, is studied in physics. Students also study the various forms of energy, including kinetic, potential, and thermal energy, and how energy can be transformed and transferred. Through our experiments here at the academy, students gain practical experience in measuring and analysing the behaviour of objects in motion.
+<br></br>
+<img src="https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces,q_auto,f_auto/https://www.gcu.edu/sites/default/files/images/articles/df44a5bfec32ecd8011755452d7bed35043923e5.jpg" Width="400" class ="top"
+<br></br>
+
+<div4 class="Teachers"><h5><U>Teachers</U></h5></div4>
+<p5 class ="Teachers"></p5>
+Ms romano<br>
+Mr Zra<br> 
+Mr Clarke<br>
+Ms Clarke<br>
+Ms Oghosa Johnson<br>
+Mr Mitchell Douglas<br>
+Ms Komeh<br>
+Ms Mack<br>
+
+</body>
+</html>
 
