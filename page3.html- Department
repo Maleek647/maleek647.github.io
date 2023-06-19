@@ -3,26 +3,10 @@
 <title>Online HTML Editor</title>
 <head>
 <style>
-body {background:Red;]
-  h1{color:blue;]
- h2{color:Blue;}
-    
-    
-    
-    
-    
-    
-    
-    
 </style>    
-    
-    
-    
-    
-    
-    
-    
+   
 </head>
+<link rel="stylesheet" href="style.css">
 <body>
 <h1><center>Science Department</center></h1>
 <div></div>
